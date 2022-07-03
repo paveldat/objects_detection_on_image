@@ -36,5 +36,5 @@ Names of possible objects:
 Path to image(recapcha): Result\input\bus1.png
 What we are looking for: bus
 ```
-<img align="left" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png">
-<img align="left" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png">
+<img width="120" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png">
+<img width="120" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png">
