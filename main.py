@@ -132,7 +132,8 @@ if __name__ == '__main__':
     tprint("paveldat")
 
     # Loading YOLO scales from files and setting up the network
-    net = cv2.dnn.readNetFromDarknet("Resources/yolov4-tiny.cfg", "Resources/yolov4-tiny.weights")
+    net = cv2.dnn.readNetFromDarknet("Resources/yolov4-tiny.cfg",
+                                     "Resources/yolov4-tiny.weights")
     layer_names = net.getLayerNames()
     out_layers_indexes = net.getUnconnectedOutLayers()
     out_layers = [layer_names[index - 1] for index in out_layers_indexes]
