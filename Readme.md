@@ -38,3 +38,10 @@ What we are looking for: bus
 ```
 ![image_input_1](https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png)
 ![image_output_1](https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png)
+
+```
+Path to image(recapcha): Result\input\traffic_light.png
+What we are looking for: traffic light
+```
+![image_input_1](https://github.com/paveldat/objects_on_image/blob/main/Result/input/traffic_light.png)
+![image_output_1](https://github.com/paveldat/objects_on_image/blob/main/Result/output/traffic_light.png)
