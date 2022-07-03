@@ -44,3 +44,9 @@ Path to image(recapcha): Result\input\truck.jpg
 What we are looking for: truck
 ```
 <img align="left" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/truck.jpg" width=250><img align="middle" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/truck.png" width=250>
+
+```
+Path to image(recapcha): Result\input\city.png
+What we are looking for: car, person, traffic ligh
+```
+<img align="left" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/city.png" width=250><img align="middle" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/city.png" width=250>
