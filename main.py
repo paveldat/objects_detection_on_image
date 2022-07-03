@@ -146,8 +146,8 @@ if __name__ == '__main__':
     # The names are in the file coco.names.txt
 
     image = input("Path to image(recapcha): ")
-    look_for = input("What we are looking for: ")
+    look_for = input("What we are looking for: ").replace(' ', '').split(',')
 
-    classes_to_look_for = [f"{look_for}"]
+    classes_to_look_for = look_for
 
     start_image_object_detection(image)
