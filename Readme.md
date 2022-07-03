@@ -1,5 +1,5 @@
-# Solving recaptcha by image
-This project shows how you can solve reСaptcha using the Python.
+# Finding objects on the image
+In this project, I'll show you how to find objects in an image, select them, and count them. This program can work with recaptcha
 
 ## Features
 * Works with image
@@ -8,7 +8,7 @@ This project shows how you can solve reСaptcha using the Python.
 
 ## How to install
 1. Clone this repository on your computer
-`https://github.com/paveldat/recaptcha_solution.git`
+`https://github.com/paveldat/objects_on_image.git`
 2. Install all the requirements
 `run libraries.bat` or
 `pip install -r requirements.txt`
