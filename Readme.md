@@ -32,3 +32,9 @@ Names of possible objects:
 ```
 
 ## Result
+```
+Path to image(recapcha): Result\input\bus1.png
+What we are looking for: bus
+```
+<img src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png">
+<img src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png">
