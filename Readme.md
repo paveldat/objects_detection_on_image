@@ -32,9 +32,10 @@ Names of possible objects:
 ```
 
 ## Result
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello there)](https://git.io/typing-svg)
 ```
 Path to image(recapcha): Result\input\bus1.png
 What we are looking for: bus
 ```
-<img align="left" width="300" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png">\
-<img width="300" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png">
+<img align="left" width="350" src="https://github.com/paveldat/objects_on_image/blob/main/Result/input/bus1.png">
+<img width="350" src="https://github.com/paveldat/objects_on_image/blob/main/Result/output/bus1.png">
