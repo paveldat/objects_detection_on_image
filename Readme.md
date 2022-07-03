@@ -43,5 +43,5 @@ What we are looking for: bus
 Path to image(recapcha): Result\input\truck.jpg
 What we are looking for: truck
 ```
-![<img src="image_input_1" width="250">](https://github.com/paveldat/objects_on_image/blob/main/Result/input/truck.jpg)
-![<img src="image_output_1" width="250">](https://github.com/paveldat/objects_on_image/blob/main/Result/output/truck.png)
+![image_input_1](https://github.com/paveldat/objects_on_image/blob/main/Result/input/truck.jpg){width="250"}
+![image_output_1](https://github.com/paveldat/objects_on_image/blob/main/Result/output/truck.png){width="250"}
