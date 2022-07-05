@@ -127,7 +127,7 @@ def start_image_object_detection(img_path):
 if __name__ == '__main__':
 
     # Logo
-    tprint("reCAPTCHA solution")
+    tprint("Object detection")
     tprint("by")
     tprint("paveldat")
 
